@@ -1,0 +1,49 @@
+
+#container {
+    color: white;
+    background-color: #222222;
+    opacity: 90%;    
+}
+
+#c2 {
+    color: white;
+}
+button {
+    color: white;
+    background-color: #333333;
+    border: solid, white;
+    border-width: 3px;
+    border-radius: 7px;
+    height: 30px;
+    width: 60px;
+
+}
+
+#results {
+    background-color: #222222;
+    color: white;
+    opacity: 90%;
+    height: fit-content;
+    width: fit-content;
+    position: relative;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+body {
+    background-color: #222222;
+    background-image: url("./images/mountains.jpg");
+    background-size: inherit;
+    background-repeat: no-repeat;
+    
+}
